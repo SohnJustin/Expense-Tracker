@@ -5,7 +5,7 @@
 1. Justin Sohn
 2. CWID:885830877
 
-## Expense Tracker Description
+## CRUD Expense Tracker Description
 
 - This program uses SwiftUI
 - You can add an expense that you have made and include a title, description, and the expense price.
